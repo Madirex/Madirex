@@ -6,8 +6,15 @@ Soy desarrollador de videojuegos indie y creador de contenido artístico y creat
 <div class="row">
   <div class="column">
     - <a href="https://www.madirex.com/">Página principal 🏠</a>
+  </div>
+  <div class="column">
     - <a href="https://games.madirex.com/">Página de videojuegos 🎮</a>
+  </div>
+  <div class="column">
     - <a href="https://books.madirex.com/">Página de libros 📕</a>
   </div>
-  
+  <div class="column">
+    - <a href="https://art.madirex.com/">Página de mi galería 📷</a>
+    - <a href="https://tech.madirex.com/">Página de informática y tecnología ⚙</a>
+  </div>
 </div>
