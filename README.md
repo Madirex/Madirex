@@ -1,3 +1,5 @@
+<img align="left" height="120px" src="https://i.imgur.com/z6gcsLd.png">
+
 ### Madirex
 Soy desarrollador de videojuegos indie y creador de contenido artístico y creativo (aplicaciones, libros, vídeos). Me gusta programar aplicaciones y diseñar videojuegos.
 
