@@ -26,4 +26,4 @@ Desarrollador de videojuegos indie 🕹, escritor 📗 y creador de contenido �
 </div>
 
 ### Videojuegos
-<a href="https://www.madirex.com/"><img align="center" height="40px" src="https://i.imgur.com/tsNd9YC_d.webp"></a>
+<a href="https://games.madirex.com/2020/07/retro-war-el-videojuego.html"><img src="https://i.imgur.com/ybqHnqh.png"></a>
