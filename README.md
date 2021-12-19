@@ -1,7 +1,7 @@
 <a href="https://www.madirex.com/"><img align="right" height="200px" src="https://i.imgur.com/z6gcsLd.png"></a>
 
 ### Madirex
-Soy desarrollador de videojuegos indie y creador de contenido artístico y creativo (aplicaciones, libros, vídeos). Me gusta programar aplicaciones y diseñar videojuegos.
+Desarrollador de videojuegos indie 🕹, escritor 📗 y creador de contenido 🎨 artístico y creativo. Me gusta programar aplicaciones y diseñar videojuegos.
 
 <a href="https://www.madirex.com/"><img height="60px" src="https://i.imgur.com/tsNd9YC_d.webp"></a>
 
