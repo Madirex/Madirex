@@ -5,9 +5,9 @@ Soy desarrollador de videojuegos indie y creador de contenido artístico y creat
 ㅤㅤ
 ㅤㅤ
 ㅤㅤ
-ㅤㅤ
-ㅤㅤ
-ㅤㅤ
+###ㅤㅤ
+###ㅤㅤ
+###ㅤㅤ
 ### Webs
 <a href="https://www.madirex.com/"><img align="left" height="120px" src="https://i.imgur.com/nYtcu63.gif"></a>
 <div>
