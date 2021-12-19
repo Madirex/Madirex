@@ -27,6 +27,11 @@ Desarrollador de videojuegos indie 🕹, escritor 📗 y creador de contenido �
 
 # Últimos posts
 <!-- BLOG-POST-LIST:START -->
+- [Fantastic BackWater](https://art.madirex.com/2021/12/fantastic-backwater.html)
+- [Niveles especiales](https://tech.madirex.com/2021/11/niveles-especiales.html)
+- [Niveles experto](https://tech.madirex.com/2021/11/niveles-experto.html)
+- [Niveles intermedio](https://tech.madirex.com/2021/11/niveles-intermedio.html)
+- [Niveles básicos](https://tech.madirex.com/2021/11/niveles-basicos.html)
 <!-- BLOG-POST-LIST:END -->
 
 # Videojuegos
