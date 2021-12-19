@@ -24,3 +24,6 @@ Desarrollador de videojuegos indie 🕹, escritor 📗 y creador de contenido �
     - <a href="https://tech.madirex.com/">Página de informática y tecnología ⚙</a>
   </div>
 </div>
+
+### Videojuegos
+<a href="https://www.madirex.com/"><img align="center" height="40px" src="https://i.imgur.com/tsNd9YC_d.webp"></a>
