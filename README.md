@@ -2,7 +2,7 @@
 Soy desarrollador de videojuegos indie y creador de contenido artístico y creativo (aplicaciones, libros, vídeos). Me gusta programar aplicaciones y diseñar videojuegos.
 
 ### Mis páginas web 🌎:
-<a href="https://www.madirex.com/"><img align="left" src="https://i.imgur.com/nYtcu63.gif"></a>
+<a href="https://www.madirex.com/"><img align="left" style="border-radius: 15px; margin-top:20px;" src="https://i.imgur.com/nYtcu63.gif"></a>
 <div>
   <div>
     - <a href="https://www.madirex.com/">Página principal 🏠</a>
