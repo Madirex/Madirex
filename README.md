@@ -28,11 +28,11 @@ Desarrollador de videojuegos indie 🕹, escritor 📗 y creador de contenido �
 
 ## ✍ Últimos posts
 <!-- BLOG-POST-LIST:START -->
+- [Masteroids - Minijuego desarrollado en JavaFX](https://www.madirex.com/2021/12/masteroids-minijuego-desarrollado-en_49.html)
 - [Retro War - Nuevo idioma francés | 0.8.4](https://games.madirex.com/2021/12/retro-war-nuevo-idioma-frances-084.html)
 - [Fantastic BackWater](https://art.madirex.com/2021/12/fantastic-backwater.html)
 - [Niveles especiales](https://tech.madirex.com/2021/11/niveles-especiales.html)
 - [Niveles experto](https://tech.madirex.com/2021/11/niveles-experto.html)
-- [Niveles intermedio](https://tech.madirex.com/2021/11/niveles-intermedio.html)
 <!-- BLOG-POST-LIST:END -->
 <a href="https://www.madirex.com/"><img height="20px" src="https://i.imgur.com/tsNd9YC_d.webp"></a>
 
