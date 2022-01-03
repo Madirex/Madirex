@@ -6,7 +6,7 @@ Desarrollador de videojuegos indie 🕹, escritor 📗 y creador de contenido �
 <a href="https://www.madirex.com/"><img height="20px" src="https://i.imgur.com/tsNd9YC_d.webp"></a>
 
 ## 🌐 Webs
-<a href="https://www.madirex.com/"><img height="120px" src="https://i.imgur.com/nYtcu63.gif"></a>
+<a href="https://www.madirex.com/"><img align="left" height="120px" src="https://i.imgur.com/nYtcu63.gif"></a>
 <div>
   <div>
     - <a href="https://www.madirex.com/">Página principal 🏠</a>
