@@ -24,20 +24,20 @@ Desarrollador de videojuegos indie 🕹, escritor 📗 y creador de contenido �
     - <a href="https://tech.madirex.com/">Página de informática y tecnología ⚙</a>
   </div>
 </div>
-<a href="https://www.madirex.com/"><img height="20px" src="https://i.imgur.com/tsNd9YC_d.webp"></a>
+<a href="https://www.madirex.com/"><img height="20px" src="https://i.imgur.com/tsNd9YC_d.webp"/></a>
 
 ## 🎮 Mis Videojuegos
-<a href="https://games.madirex.com/2020/07/retro-war-el-videojuego.html"><img height="128px" src="https://i.imgur.com/oylrasm.png"></a>
+<a href="https://games.madirex.com/2020/07/retro-war-el-videojuego.html"><img height="128px" src="https://i.imgur.com/oylrasm.png"/></a>
 
-<a href="https://www.madirex.com/"><img height="20px" src="https://i.imgur.com/tsNd9YC_d.webp"></a>
+<a href="https://www.madirex.com/"><img height="20px" src="https://i.imgur.com/tsNd9YC_d.webp"/></a>
 
 ## 📱 Mis Apps
-<a href="https://tech.madirex.com/p/app-madirex.html"><img align="left" src="https://2.bp.blogspot.com/-TT-NYPBGGnI/X8gIPomRZSI/AAAAAAAAQJg/izPveCjPSjoBOXe85G-_QBOW54VxGO4xQCK4BGAYYCw/s1600/MadiTech.gif"></a>
+<a href="https://tech.madirex.com/p/app-madirex.html"><img align="left" src="https://2.bp.blogspot.com/-TT-NYPBGGnI/X8gIPomRZSI/AAAAAAAAQJg/izPveCjPSjoBOXe85G-_QBOW54VxGO4xQCK4BGAYYCw/s1600/MadiTech.gif"/></a>
 
 ## 📕 Mis Libros
-<a href="https://books.madirex.com/2020/10/la-mansion-de-las-pesadillas.html"><img align="left" height="300px" src="https://i.imgur.com/Xwe0UGW.png"></a>
+<a href="https://books.madirex.com/2020/10/la-mansion-de-las-pesadillas.html"><img align="left" height="300px" src="https://i.imgur.com/Xwe0UGW.png"/></a>
 
-<a href="https://books.madirex.com/2021/06/abre-la-mente-piensa-diferente.html"><img align="left" height="300px" src="https://i.imgur.com/f2Ot0w2.png"></a>
+<a href="https://books.madirex.com/2021/06/abre-la-mente-piensa-diferente.html"><img align="left" height="300px" src="https://i.imgur.com/f2Ot0w2.png"/></a>
 
 ## ✍ Últimos posts
 <!-- BLOG-POST-LIST:START -->
@@ -47,6 +47,6 @@ Desarrollador de videojuegos indie 🕹, escritor 📗 y creador de contenido �
 - [Retro War - Nuevo idioma francés | 0.8.4](https://games.madirex.com/2021/12/retro-war-nuevo-idioma-frances-084.html)
 - [Fantastic BackWater](https://art.madirex.com/2021/12/fantastic-backwater.html)
 <!-- BLOG-POST-LIST:END -->
-<a href="https://www.madirex.com/"><img height="20px" src="https://i.imgur.com/tsNd9YC_d.webp"></a>
+<a href="https://www.madirex.com/"><img height="20px" src="https://i.imgur.com/tsNd9YC_d.webp"/></a>
 
 
