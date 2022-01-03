@@ -37,7 +37,7 @@ Desarrollador de videojuegos indie 🕹, escritor 📗 y creador de contenido �
 <a href="https://www.madirex.com/"><img height="20px" src="https://i.imgur.com/tsNd9YC_d.webp"></a>
 
 ## 🎮 Videojuegos
-<a href="https://games.madirex.com/2020/07/retro-war-el-videojuego.html"><img height="128px" src="https://i.imgur.com/ybqHnqh.png"></a>
+<a href="https://games.madirex.com/2020/07/retro-war-el-videojuego.html"><img height="128px" src="https://i.imgur.com/oylrasm.png"></a>
 
 <a href="https://www.madirex.com/"><img height="20px" src="https://i.imgur.com/tsNd9YC_d.webp"></a>
 
