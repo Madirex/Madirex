@@ -47,4 +47,4 @@ Desarrollador de videojuegos indie 🕹, escritor 📗 y creador de contenido �
 <a href="https://books.madirex.com/2020/10/la-mansion-de-las-pesadillas.html"><img align="left" height="300px" src="https://i.imgur.com/Xwe0UGW.png"></a>
 
 
-<a href="https://books.madirex.com/2021/06/abre-la-mente-piensa-diferente.html"><img align="left" height="300px" src="https://1.bp.blogspot.com/-A6dbbKbDRQ8/YNTKjprbzjI/AAAAAAAAVt4/WIR4sjJm8B4F8cVOb111oT3izDNXksfjgCLcBGAsYHQ/w680/Portada%2BAbre%2Bla%2Bmente%252C%2Bpiensa%2Bdiferente.png"></a>
+<a href="https://books.madirex.com/2021/06/abre-la-mente-piensa-diferente.html"><img align="left" height="300px" src="https://i.imgur.com/f2Ot0w2.png"></a>
