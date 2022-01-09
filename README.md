@@ -46,11 +46,11 @@ Desarrollador de videojuegos indie 🕹, escritor 📗 y creador de contenido �
 
 ## ✍ Últimos posts
 <!-- BLOG-POST-LIST:START -->
+- [AquaLib](https://art.madirex.com/2022/01/aqualib.html)
 - [MadiTech](https://www.madirex.com/2021/12/maditech.html)
 - [Mi página de GitHub y proyectos - DatosCiudad y AccesoDatosRelacional](https://www.madirex.com/2021/12/github.html)
 - [Masteroids - Minijuego desarrollado en JavaFX](https://www.madirex.com/2021/12/masteroids-minijuego-desarrollado-en_49.html)
 - [Retro War - Nuevo idioma francés | 0.8.4](https://games.madirex.com/2021/12/retro-war-nuevo-idioma-frances-084.html)
-- [Fantastic BackWater](https://art.madirex.com/2021/12/fantastic-backwater.html)
 <!-- BLOG-POST-LIST:END -->
 <a href="https://www.madirex.com/"><img height="20px" src="https://i.imgur.com/tsNd9YC_d.webp"/></a>
 
