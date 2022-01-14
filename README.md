@@ -24,7 +24,7 @@ Desarrollador de videojuegos indie 🕹, escritor 📗 y creador de contenido �
     - <a href="https://tech.madirex.com/">Página de informática y tecnología ⚙</a>
   </div>
 </div>
-<a href="https://www.madirex.com/"><img height="20px" style="visibility:hidden;" src="https://i.imgur.com/tsNd9YC_d.webp"/></a>
+<a href="https://www.madirex.com/"><img height="20px" width="0px" src="https://i.imgur.com/tsNd9YC_d.webp"/></a>
 
 ## 📱 Mis Apps
 <a href="https://tech.madirex.com/p/app-madirex.html"><img src="https://2.bp.blogspot.com/-TT-NYPBGGnI/X8gIPomRZSI/AAAAAAAAQJg/izPveCjPSjoBOXe85G-_QBOW54VxGO4xQCK4BGAYYCw/s1600/MadiTech.gif"/></a>
