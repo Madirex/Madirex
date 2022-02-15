@@ -49,7 +49,7 @@ Desarrollador de videojuegos indie 🕹, escritor 📗 y creador de contenido �
 - [Retro War 0.8.5](https://games.madirex.com/2022/01/retro-war-085.html)
 - [AquaLib](https://art.madirex.com/2022/01/aqualib.html)
 - [MadiTech](https://www.madirex.com/2021/12/maditech.html)
-- [Mi página de GitHub y proyectos - DatosCiudad y AccesoDatosRelacional](https://www.madirex.com/2021/12/github.html)
+- [Mi página de GitHub y proyectos - Datos-Ciudad y Acceso-Datos-Relacional](https://www.madirex.com/2021/12/github.html)
 - [Masteroids - Minijuego desarrollado en JavaFX](https://www.madirex.com/2021/12/masteroids-minijuego-desarrollado-en_49.html)
 <!-- BLOG-POST-LIST:END -->
 <a href="https://www.madirex.com/"><img height="20px" width="0px" src="https://i.imgur.com/tsNd9YC_d.webp"/></a>
