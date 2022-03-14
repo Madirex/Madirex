@@ -46,7 +46,7 @@ Desarrollador de videojuegos indie 🕹, escritor 📗 y creador de contenido �
 
 ## ✍ Últimos posts
 <!-- BLOG-POST-LIST:START -->
-- [Retro War 0.9](https://games.madirex.com/2022/03/retro-war-09.html)
+- [Retro War 0.9 - Idioma portugués](https://games.madirex.com/2022/03/retro-war-09.html)
 - [Nueva plantilla de Madirex Games](https://games.madirex.com/2022/03/nueva-plantilla-de-madirex-games.html)
 - [Retro War 0.8.5](https://games.madirex.com/2022/01/retro-war-085.html)
 - [AquaLib](https://art.madirex.com/2022/01/aqualib.html)
