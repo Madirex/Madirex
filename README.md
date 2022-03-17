@@ -27,7 +27,7 @@ Desarrollador de videojuegos indie 🕹, escritor 📗 y creador de contenido �
 <a href="https://www.madirex.com/"><img height="20px" width="0px" src="https://i.imgur.com/tsNd9YC_d.webp"/></a>
 
 ## 📱 Mis Apps
-<a href="https://tech.madirex.com/p/app-madirex.html"><img src="https://2.bp.blogspot.com/-TT-NYPBGGnI/X8gIPomRZSI/AAAAAAAAQJg/izPveCjPSjoBOXe85G-_QBOW54VxGO4xQCK4BGAYYCw/s1600/MadiTech.gif"/></a>
+<a href="https://tech.madirex.com/p/app-madirex.html"><img src="https://blogger.googleusercontent.com/img/a/AVvXsEjh8Pu9Ai0jJuohkmmaRkEjgu4BSEGqwsdYtZKHpA4uFyU1Xq0PnfGhlZwHLB9SDxNjC0RCA93Uts1t6OaV-gK_i9IdflW4Oxi-q3XJpLy2mpAb7XRrm5RDu5p7DqI1qkUKrlRTkUZdNWAipg_jE0mrav9SgE-MqerkibPO6WBI_LqIn8VFLjb7Ec1P=s290"/></a>
 
 <a href="https://www.madirex.com/"><img height="20px" width="0px" src="https://i.imgur.com/tsNd9YC_d.webp"/></a>
 
