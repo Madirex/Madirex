@@ -46,11 +46,11 @@ Desarrollador de videojuegos indie 🕹, escritor 📗 y creador de contenido �
 
 ## ✍ Últimos posts
 <!-- BLOG-POST-LIST:START -->
+- [Cómo ejecutar cualquier programa en el inicio de Windows de manera sencilla y sin programas externos](https://tech.madirex.com/2022/03/como-ejecutar-cualquier-programa-en-el.html)
 - [Programas nuevos - JavaScript, JavaFX, MongoDB, Python y más](https://www.madirex.com/2022/03/programas-nuevos-javascript-javafx.html)
 - [Retro War 0.9 - Idioma portugués](https://games.madirex.com/2022/03/retro-war-09.html)
 - [Nueva plantilla de Madirex Games](https://games.madirex.com/2022/03/nueva-plantilla-de-madirex-games.html)
 - [Retro War 0.8.5](https://games.madirex.com/2022/01/retro-war-085.html)
-- [AquaLib](https://art.madirex.com/2022/01/aqualib.html)
 <!-- BLOG-POST-LIST:END -->
 <a href="https://www.madirex.com/"><img height="20px" width="0px" src="https://i.imgur.com/tsNd9YC_d.webp"/></a>
 
