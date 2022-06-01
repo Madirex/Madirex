@@ -47,10 +47,10 @@ Desarrollador de videojuegos indie 🕹, escritor 📗 y creador de contenido �
 ## ✍ Últimos posts
 <!-- BLOG-POST-LIST:START -->
 - [Retro War - Tráiler actualizado](https://games.madirex.com/2022/05/retro-war-trailer-actualizado.html)
-- [Review Mario Party 2](https://www.madirex.com/2022/04/review-mario-party-2.html)
 - [Cuello de botella - Qué es y cómo detectarlo](https://tech.madirex.com/2022/04/cuello-de-botella-que-es-y-como.html)
-- [Review Mario Party 1](https://www.madirex.com/2022/04/review-mario-party-1.html)
 - [Cómo ejecutar cualquier programa en el inicio de Windows de manera sencilla y sin programas externos](https://tech.madirex.com/2022/03/como-ejecutar-cualquier-programa-en-el.html)
+- [Retro War 0.9 - Idioma portugués](https://games.madirex.com/2022/03/retro-war-09.html)
+- [Nueva plantilla de Madirex Games](https://games.madirex.com/2022/03/nueva-plantilla-de-madirex-games.html)
 <!-- BLOG-POST-LIST:END -->
 <a href="https://www.madirex.com/"><img height="20px" width="0px" src="https://i.imgur.com/tsNd9YC_d.webp"/></a>
 
