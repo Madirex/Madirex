@@ -46,11 +46,11 @@ Desarrollador de videojuegos indie 🕹, escritor 📗 y creador de contenido �
 
 ## ✍ Últimos posts
 <!-- BLOG-POST-LIST:START -->
+- [Perro Mofli](https://art.madirex.com/2022/06/perro-mofli.html)
 - [Las mentiras son dulces al principio y amargas al final](https://art.madirex.com/2022/06/las-mentiras-son-dulces-al-principio-y.html)
 - [Retro War - Tráiler actualizado](https://games.madirex.com/2022/05/retro-war-trailer-actualizado.html)
 - [Review Mario Party 2](https://www.madirex.com/2022/04/review-mario-party-2.html)
 - [Cuello de botella - Qué es y cómo detectarlo](https://tech.madirex.com/2022/04/cuello-de-botella-que-es-y-como.html)
-- [Review Mario Party 1](https://www.madirex.com/2022/04/review-mario-party-1.html)
 <!-- BLOG-POST-LIST:END -->
 <a href="https://www.madirex.com/"><img height="20px" width="0px" src="https://i.imgur.com/tsNd9YC_d.webp"/></a>
 
