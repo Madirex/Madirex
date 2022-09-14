@@ -46,11 +46,11 @@ Desarrollador de videojuegos indie 🕹, escritor 📗 y creador de contenido �
 
 ## ✍ Últimos posts
 <!-- BLOG-POST-LIST:START -->
+- [El poder de la inteligencia artificial](https://art.madirex.com/2022/09/el-poder-de-la-inteligencia-artificial.html)
+- [Inteligencia artificial: Texto a imagen](https://www.madirex.com/2022/09/la-inteligencia-artificial-para.html)
+- [Texto a imagen 🧠 Cómo utilizar la inteligencia artificial para crear tus propias imágenes](https://tech.madirex.com/2022/09/texto-imagen-como-utilizar-la.html)
 - [Qué son los dominios descentralizados](https://tech.madirex.com/2022/09/que-son-los-dominios-descentralizados.html)
 - [León Asiático listo para dominar el mundo](https://art.madirex.com/2022/09/leon-asiatico-listo-para-dominar-el.html)
-- [Las criptomonedas - El nuevo paradigma económico](https://www.madirex.com/2022/08/las-criptomonedas-el-nuevo-paradigma.html)
-- [Cómo hacer que el ordenador se apague a una hora concreta ❌ &lpar;programando hora de apagado&rpar;](https://tech.madirex.com/2022/08/como-hacer-que-el-ordenador-se-apague.html)
-- [Qué es una máquina virtual y para qué sirve](https://tech.madirex.com/2022/07/que-es-una-maquina-virtual-y-para-que.html)
 <!-- BLOG-POST-LIST:END -->
 <a href="https://www.madirex.com/"><img height="20px" width="0px" src="https://i.imgur.com/tsNd9YC_d.webp"/></a>
 
