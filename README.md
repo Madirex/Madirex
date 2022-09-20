@@ -46,11 +46,11 @@ Desarrollador de videojuegos indie 🕹, escritor 📗 y creador de contenido �
 
 ## ✍ Últimos posts
 <!-- BLOG-POST-LIST:START -->
+- [Graba un segundo cada día con esta aplicación | 1 Second Everyday](https://tech.madirex.com/2022/09/graba-un-segundo-cada-dia-con-esta.html)
 - [Diario emocional - Mantén el control de tus días y emociones | Daylio](https://tech.madirex.com/2022/09/diario-emocional-manten-el-control-de.html)
 - [El poder de la inteligencia artificial](https://art.madirex.com/2022/09/el-poder-de-la-inteligencia-artificial.html)
 - [Inteligencia artificial: Texto a imagen](https://www.madirex.com/2022/09/la-inteligencia-artificial-para.html)
 - [Texto a imagen 🧠 Cómo utilizar la inteligencia artificial para crear tus propias imágenes](https://tech.madirex.com/2022/09/texto-imagen-como-utilizar-la.html)
-- [Qué son los dominios descentralizados](https://tech.madirex.com/2022/09/que-son-los-dominios-descentralizados.html)
 <!-- BLOG-POST-LIST:END -->
 <a href="https://www.madirex.com/"><img height="20px" width="0px" src="https://i.imgur.com/tsNd9YC_d.webp"/></a>
 
