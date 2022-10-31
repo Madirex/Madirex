@@ -48,7 +48,7 @@ Desarrollador de videojuegos indie 🕹, escritor 📗 y creador de contenido �
 
 ## ✍ Últimos posts
 <!-- BLOG-POST-LIST:START -->
-- [0.9.5 - Nuevos menús e idiomas](https://games.madirex.com/2022/09/095-nuevos-menus-e-idiomas.html)
+- [Retro War 0.9.5 - Nuevos menús e idiomas](https://games.madirex.com/2022/09/095-nuevos-menus-e-idiomas.html)
 - [📘 Mi libro: ¿El asesino sigue aquí?](https://www.madirex.com/2022/09/mi-libro-el-asesino-sigue-aqui.html)
 - [¿El asesino sigue aquí? [𝔽𝕠𝕣𝕞𝕒𝕥𝕠 𝔻𝕚𝕘𝕚𝕥𝕒𝕝]](https://books.madirex.com/2022/09/el-asesino-sigue-aqui.html)
 - [¿El asesino sigue aquí? [𝔽𝕠𝕣𝕞𝕒𝕥𝕠 𝔽𝕚́𝕤𝕚𝕔𝕠]](https://books.madirex.com/2022/09/el-asesino-sigue-aqui_24.html)
