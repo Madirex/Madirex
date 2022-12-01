@@ -49,11 +49,11 @@ Desarrollador de videojuegos indie 🕹, escritor 📗 y creador de contenido �
 
 ## ✍ Últimos posts
 <!-- BLOG-POST-LIST:START -->
+- [WUFO - Port a Android](https://games.madirex.com/2022/12/wufo-port-android.html)
+- [WUFO - herramientas de desarrollo](https://games.madirex.com/2022/12/wufo-herramientas-de-desarrollo.html)
+- [WUFO - Inicio de desarrollo del nuevo videojuego](https://www.madirex.com/2022/12/wufo-inicio-de-desarrollo-del-nuevo.html)
+- [WUFO - Inicio de desarrollo](https://games.madirex.com/2022/12/wufo-inicio-de-desarrollo.html)
 - [Actualización Madirex Games - Ajuste según videojuego](https://games.madirex.com/2022/12/actualizacion-madirex-games-ajuste.html)
-- [Retro War 0.9.5 - Nuevos menús e idiomas](https://games.madirex.com/2022/09/095-nuevos-menus-e-idiomas.html)
-- [📘 Mi libro: ¿El asesino sigue aquí?](https://www.madirex.com/2022/09/mi-libro-el-asesino-sigue-aqui.html)
-- [¿El asesino sigue aquí? [𝔽𝕠𝕣𝕞𝕒𝕥𝕠 𝔻𝕚𝕘𝕚𝕥𝕒𝕝]](https://books.madirex.com/2022/09/el-asesino-sigue-aqui.html)
-- [¿El asesino sigue aquí? [𝔽𝕠𝕣𝕞𝕒𝕥𝕠 𝔽𝕚́𝕤𝕚𝕔𝕠]](https://books.madirex.com/2022/09/el-asesino-sigue-aqui_24.html)
 <!-- BLOG-POST-LIST:END -->
 <a href="https://www.madirex.com/"><img height="20px" width="0px" src="https://i.imgur.com/tsNd9YC_d.webp"/></a>
 
