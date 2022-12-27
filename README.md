@@ -49,11 +49,11 @@ Desarrollador de videojuegos indie 🕹, escritor 📗 y creador de contenido �
 
 ## ✍ Últimos posts
 <!-- BLOG-POST-LIST:START -->
+- [¡WUFO ya disponible en Android! Nueva update](https://games.madirex.com/2022/12/wufo-ya-disponible-en-android-nueva.html)
 - [Modelo de lenguaje - ChatGPT como asistente virtual](https://tech.madirex.com/2022/12/modelo-de-lenguaje-chatgpt-como.html)
 - [WUFO](https://www.madirex.com/2022/12/wufo.html)
 - [WUFO - Port a Android](https://games.madirex.com/2022/12/wufo-port-android.html)
 - [WUFO - herramientas de desarrollo](https://games.madirex.com/2022/12/wufo-herramientas-de-desarrollo.html)
-- [WUFO - Inicio de desarrollo del nuevo videojuego](https://www.madirex.com/2022/12/wufo-inicio-de-desarrollo-del-nuevo.html)
 <!-- BLOG-POST-LIST:END -->
 <a href="https://www.madirex.com/"><img height="20px" width="0px" src="https://i.imgur.com/tsNd9YC_d.webp"/></a>
 
