@@ -49,11 +49,11 @@ Desarrollador de videojuegos indie 🕹, escritor 📗 y creador de contenido �
 
 ## ✍ Últimos posts
 <!-- BLOG-POST-LIST:START -->
+- [Retro War 1.0 | Nuevos idiomas, nueva interfaz, Google Play Games y más](https://games.madirex.com/2022/12/retro-war-10-nuevos-idiomas-nueva.html)
 - [¡WUFO ya disponible en Android! Nueva update](https://games.madirex.com/2022/12/wufo-ya-disponible-en-android-nueva.html)
 - [Modelo de lenguaje - ChatGPT como asistente virtual](https://tech.madirex.com/2022/12/modelo-de-lenguaje-chatgpt-como.html)
 - [WUFO](https://www.madirex.com/2022/12/wufo.html)
 - [WUFO - Port a Android](https://games.madirex.com/2022/12/wufo-port-android.html)
-- [WUFO - herramientas de desarrollo](https://games.madirex.com/2022/12/wufo-herramientas-de-desarrollo.html)
 <!-- BLOG-POST-LIST:END -->
 <a href="https://www.madirex.com/"><img height="20px" width="0px" src="https://i.imgur.com/tsNd9YC_d.webp"/></a>
 
