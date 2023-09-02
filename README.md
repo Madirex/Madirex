@@ -27,7 +27,7 @@ Desarrollador de videojuegos indie 🕹, escritor 📗 y creador de contenido �
 <a href="https://www.madirex.com/"><img height="20px" width="0px" src="https://i.imgur.com/tsNd9YC_d.webp"/></a>
 
 ## 📱 Mis Apps
-<a href="[https://tech.madirex.com/p/app-madirex.html](https://www.madirex.com/2023/09/interval-elite.html)"><img align="left" height="60px" src="https://i.imgur.com/9bj1H2g.png"/></a>
+<a href="https://www.madirex.com/2023/09/interval-elite.html"><img align="left" height="60px" src="https://i.imgur.com/9bj1H2g.png"/></a>
 
 <a href="https://tech.madirex.com/p/app-madirex.html"><img height="60px" src="https://play-lh.googleusercontent.com/Kksihqj83n-2p_Zv7bjQpSP0l-urlffrm0xHvvpZUU0KCI4u2X40_KbRrsQuLanYDlM=w240-h480"/></a>
 
