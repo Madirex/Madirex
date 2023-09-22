@@ -22,11 +22,12 @@ Desarrollador de aplicaciones y videojuegos ⚙🕹, escritor 📗.
   <div>
     - <a href="https://tech.madirex.com/">Página de informática y tecnología ⚙</a>
   </div>
-  <div>
-    <a href=""mailto:contact@madirex.com">contact@madirex.com ✉</a>
-  </div>
 </div>
 <a href="https://www.madirex.com/"><img height="20px" width="0px" src="https://i.imgur.com/tsNd9YC_d.webp"/></a>
+
+<div>
+  <a href=""mailto:contact@madirex.com">✉ contact@madirex.com</a>
+</div>
 
 ## 📱 Mis Apps
 <a href="https://www.madirex.com/2023/09/interval-elite.html"><img align="left" height="60px" src="https://i.imgur.com/9bj1H2g.png"/></a>
