@@ -3,7 +3,7 @@
 ## ⚔ Madirex
 Desarrollador de aplicaciones y videojuegos ⚙🕹, escritor 📗.
 <div>
-  <a href=""mailto:contact@madirex.com">✉ contact@madirex.com</a>
+  <a href="mailto:contact@madirex.com">✉ contact@madirex.com</a>
 </div>
 
 <a href="https://www.madirex.com/"><img height="20px" width="0px" src="https://i.imgur.com/tsNd9YC_d.webp"></a>
