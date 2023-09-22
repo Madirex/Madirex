@@ -55,10 +55,10 @@ Desarrollador de aplicaciones y videojuegos ⚙🕹, escritor 📗.
 ## ✍ Últimos posts
 <!-- BLOG-POST-LIST:START -->
 - [Interval Elite](https://www.madirex.com/2023/09/interval-elite.html)
-- [Comandos básicos de Git](https://tech.madirex.com/2023/06/comandos-basicos-de-git.html)
-- [Mi experiencia en la piscina de 42 Madrid](https://www.madirex.com/2023/06/mi-experiencia-en-la-piscina-de-42.html)
-- [Retro War 1.1 🚀 7 nuevos idiomas y corrección de errores](https://games.madirex.com/2023/05/retro-war-11-7-nuevos-idiomas-y.html)
-- [WUFO 0.5.8 | Actualización de corrección de fallos y mejora de experiencia](https://games.madirex.com/2023/05/wufo-058-actualizacion-de-correccion-de.html)
+- [¿Quién es el mayor culpable de tus problemas?](https://dojo.madirex.com/2023/08/quien-es-el-mayor-culpable-de-tus.html)
+- [La importancia del respeto en las ideas políticas](https://dojo.madirex.com/2023/08/la-importancia-del-respeto-en-las-ideas.html)
+- [No tengas envidia Tóxica. Aprovecha la envidia sana](https://dojo.madirex.com/2023/08/no-tengas-envidia-toxica-aprovecha-la.html)
+- [El problema de la ley de la atracción: Una estafa que atrae a masas](https://dojo.madirex.com/2023/08/el-problema-de-la-ley-de-la-atraccion.html)
 <!-- BLOG-POST-LIST:END -->
 <a href="https://www.madirex.com/"><img height="20px" width="0px" src="https://i.imgur.com/tsNd9YC_d.webp"/></a>
 
