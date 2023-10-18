@@ -54,11 +54,11 @@ Desarrollador de aplicaciones y videojuegos ⚙🕹, escritor 📗.
 
 ## ✍ Últimos posts
 <!-- BLOG-POST-LIST:START -->
+- [Cambio de diseño en la web](https://www.madirex.com/2023/10/cambio-de-diseno-en-la-web.html)
 - [Paisaje Terra Mítica](https://art.madirex.com/2023/09/paisaje-terra-mitica.html)
 - [Paisaje palmorioso](https://art.madirex.com/2023/09/paisaje-palmorioso.html)
 - [Interval Elite](https://www.madirex.com/2023/09/interval-elite.html)
 - [¿Quién es el mayor culpable de tus problemas?](https://dojo.madirex.com/2023/08/quien-es-el-mayor-culpable-de-tus.html)
-- [La importancia del respeto en las ideas políticas](https://dojo.madirex.com/2023/08/la-importancia-del-respeto-en-las-ideas.html)
 <!-- BLOG-POST-LIST:END -->
 <a href="https://www.madirex.com/"><img height="20px" width="0px" src="https://i.imgur.com/tsNd9YC_d.webp"/></a>
 
