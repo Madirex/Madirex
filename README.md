@@ -63,7 +63,4 @@ Desarrollador de aplicaciones y videojuegos ⚙🕹, escritor 📗.
 <a href="https://www.madirex.com/"><img height="20px" width="0px" src="https://i.imgur.com/tsNd9YC_d.webp"/></a>
 
 # 📈 Actividad
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madirex&layout=compact)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=madirex&show_icons=true&theme=github_dark&show_icons=true&rank_icon=github)
