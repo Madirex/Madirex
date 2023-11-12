@@ -63,3 +63,5 @@ Desarrollador de aplicaciones y videojuegos ⚙🕹, escritor 📗.
 <a href="https://www.madirex.com/"><img height="20px" width="0px" src="https://i.imgur.com/tsNd9YC_d.webp"/></a>
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madirex&layout=pie)]
+
