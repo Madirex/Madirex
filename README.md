@@ -44,7 +44,7 @@ Desarrollador de aplicaciones y videojuegos ⚙🕹, escritor 📗.
 
 ## 📕 Mis Libros
 
-<a href="https://books.madirex.com/2023/11/coctel-de-la-fortuna.html"><img align="left" height="200px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOgIh_a86zwPXIYkBzXlzAbD31O5ZEiiz2yMc8k_Yrd0VOncewe0SUEBKvz6Ew12puLuPO11CrNrShBYuC5hcKIwBDranTfm1jpvCj1WuX9Nf0xgx3HXHdBMiOq9p8WoiQkdbBtIv_lDR819YJ_UgorBGe1coFAglOwrXMpakXGJEf_m6aowKQAF9tn8XN/w680/Sin%20t%C3%ADtulo-1.png"/></a>
+<a href="https://books.madirex.com/2023/11/coctel-de-la-fortuna.html"><img align="left" height="200px" src="https://i.imgur.com/KIgZhNa.png"/></a>
 
 <a href="https://books.madirex.com/2022/09/el-asesino-sigue-aqui_24.html"><img align="left" height="200px" src="https://i.imgur.com/PJM6icK.png"/></a>
 
