@@ -56,11 +56,11 @@ Desarrollador de aplicaciones y videojuegos ⚙🕹, escritor 📗.
 
 ## ✍ Últimos posts
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript: Validadores, lista de tareas y API con Express](https://www.madirex.com/2023/12/javascript-validadores-lista-de-tareas.html)
+- [Pequeños programas en C](https://www.madirex.com/2023/12/pequenos-programas-en-c.html)
 - [Publicación del libro: Cóctel de la fortuna](https://www.madirex.com/2023/11/publicacion-del-libro-coctel-de-la.html)
 - [Cóctel de la fortuna [𝔽𝕚́𝕤𝕚𝕔𝕠 / 𝔻𝕚𝕘𝕚𝕥𝕒𝕝]](https://books.madirex.com/2023/11/coctel-de-la-fortuna.html)
 - [Cambio de diseño en la web](https://www.madirex.com/2023/10/cambio-de-diseno-en-la-web.html)
-- [Paisaje Terra Mítica](https://art.madirex.com/2023/09/paisaje-terra-mitica.html)
-- [Paisaje palmorioso](https://art.madirex.com/2023/09/paisaje-palmorioso.html)
 <!-- BLOG-POST-LIST:END -->
 <a href="https://www.madirex.com/"><img height="20px" width="0px" src="https://i.imgur.com/tsNd9YC_d.webp"/></a>
 
