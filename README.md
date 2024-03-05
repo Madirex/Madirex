@@ -56,11 +56,11 @@ Desarrollador de aplicaciones y videojuegos ⚙🕹, escritor 📗.
 
 ## ✍ Últimos posts
 <!-- BLOG-POST-LIST:START -->
-- [API Rest de libros en Spring Boot - NULLERS](https://www.madirex.com/2023/12/api-rest-de-libros-en-spring-boot.html)
-- [API Rest en Spring Boot para Funkos](https://www.madirex.com/2023/12/api-rest-en-spring-boot-para-funkos.html)
-- [API Rest utilizando Sockets en Java](https://www.madirex.com/2023/12/api-rest-utilizando-sockets-en-java.html)
-- [API Rest Java: Reactiva, asíncrona y síncrona](https://www.madirex.com/2023/12/api-rest-java-reactiva-asincrona-y.html)
-- [Programas para gestionar datos en Java](https://www.madirex.com/2023/12/programas-para-gestionar-datos-en-java.html)
+- [Cóctel de la fortuna [𝔽𝕚́𝕤𝕚𝕔𝕠 / 𝔻𝕚𝕘𝕚𝕥𝕒𝕝]](https://books.madirex.com/2023/11/coctel-de-la-fortuna.html)
+- [Paisaje Terra Mítica](https://art.madirex.com/2023/09/paisaje-terra-mitica.html)
+- [Paisaje palmorioso](https://art.madirex.com/2023/09/paisaje-palmorioso.html)
+- [¿Quién es el mayor culpable de tus problemas?](https://dojo.madirex.com/2023/08/quien-es-el-mayor-culpable-de-tus.html)
+- [La importancia del respeto en las ideas políticas](https://dojo.madirex.com/2023/08/la-importancia-del-respeto-en-las-ideas.html)
 <!-- BLOG-POST-LIST:END -->
 <a href="https://www.madirex.com/"><img height="20px" width="0px" src="https://i.imgur.com/tsNd9YC_d.webp"/></a>
 
