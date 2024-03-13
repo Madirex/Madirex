@@ -56,11 +56,11 @@ Desarrollador de aplicaciones y videojuegos ⚙🕹, escritor 📗.
 
 ## ✍ Últimos posts
 <!-- BLOG-POST-LIST:START -->
+- [Proyectos API Rest en Laravel](https://www.madirex.com/2024/03/proyectos-api-rest-en-laravel.html)
 - [API REST en PHP](https://www.madirex.com/2024/03/api-rest-en-php.html)
 - [Proyectos API Rest en Nest &lpar;NestJs&rpar;](https://www.madirex.com/2024/03/proyectos-api-rest-en-nest-nestjs.html)
 - [Interval Elite - nueva versión de corrección de errores importantes](https://www.madirex.com/2024/03/interval-elite-nueva-version-de.html)
 - [API Rest de libros en Spring Boot - NULLERS](https://www.madirex.com/2023/12/api-rest-de-libros-en-spring-boot.html)
-- [API Rest en Spring Boot para Funkos](https://www.madirex.com/2023/12/api-rest-en-spring-boot-para-funkos.html)
 <!-- BLOG-POST-LIST:END -->
 <a href="https://www.madirex.com/"><img height="20px" width="0px" src="https://i.imgur.com/tsNd9YC_d.webp"/></a>
 
