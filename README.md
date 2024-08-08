@@ -56,11 +56,11 @@ Desarrollador de aplicaciones y videojuegos ⚙🕹, escritor 📗.
 
 ## ✍ Últimos posts
 <!-- BLOG-POST-LIST:START -->
+- [Funciones y ejercicios en C](https://www.madirex.com/2024/08/funciones-y-ejercicios-en-c.html)
 - [Captain Fantastic - Película](https://dojo.madirex.com/2024/08/captain-fantastic-pelicula.html)
 - [Mis canciones](https://www.madirex.com/2024/06/mis-canciones.html)
 - [API de restaurantes en Django y Front en Vue | Madi rextaurants](https://www.madirex.com/2024/06/api-de-restaurantes-en-django-y-front.html)
 - [¡Llega el tema oscuro!](https://www.madirex.com/2024/03/llega-el-tema-oscuro.html)
-- [Madirex Games - Tema oscuro](https://games.madirex.com/2024/03/madirex-games-tema-oscuro.html)
 <!-- BLOG-POST-LIST:END -->
 <a href="https://www.madirex.com/"><img height="20px" width="0px" src="https://i.imgur.com/tsNd9YC_d.webp"/></a>
 
