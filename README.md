@@ -58,9 +58,9 @@ Desarrollador de aplicaciones y videojuegos ⚙🕹, escritor 📗.
 <!-- BLOG-POST-LIST:START -->
 - [La regla del 75% - Vídeo](https://dojo.madirex.com/2024/09/la-regla-del-75-video.html)
 - [En la vida cosechas lo que siembras &lpar;Negocios y Emprendimiento&rpar; - Vídeo](https://dojo.madirex.com/2024/09/en-la-vida-cosechas-lo-que-siembras.html)
+- [Funciones y ejercicios en C](https://www.madirex.com/2024/08/funciones-y-ejercicios-en-c.html)
 - [Captain Fantastic - Película](https://dojo.madirex.com/2024/08/captain-fantastic-pelicula.html)
-- [Madirex Games - Tema oscuro](https://games.madirex.com/2024/03/madirex-games-tema-oscuro.html)
-- [Cóctel de la Fortuna](https://dojo.madirex.com/2024/03/coctel-de-la-fortuna.html)
+- [Mis canciones](https://www.madirex.com/2024/06/mis-canciones.html)
 <!-- BLOG-POST-LIST:END -->
 <a href="https://www.madirex.com/"><img height="20px" width="0px" src="https://i.imgur.com/tsNd9YC_d.webp"/></a>
 
