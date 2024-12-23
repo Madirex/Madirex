@@ -58,11 +58,11 @@ Desarrollador de aplicaciones y videojuegos ⚙🕹, escritor 📗.
 
 ## ✍ Últimos posts
 <!-- BLOG-POST-LIST:START -->
+- [Mi libro 📗 Cómo escribir un libro en un día sin IA](https://www.madirex.com/2024/12/mi-libro-como-escribir-un-libro-en-un.html)
 - [Cómo escribir un libro en un día sin IA [𝔽𝕚́𝕤𝕚𝕔𝕠 / 𝔻𝕚𝕘𝕚𝕥𝕒𝕝]](https://books.madirex.com/2024/12/como-escribir-un-libro-en-un-dia.html)
 - [Proyecto minijuego so_long](https://www.madirex.com/2024/12/proyecto-minijuego-solong.html)
 - [Minitalk y Push Swap - proyecto](https://www.madirex.com/2024/11/minitalk-y-push-swap-proyecto.html)
 - [La regla del 75% - Vídeo](https://dojo.madirex.com/2024/09/la-regla-del-75-video.html)
-- [En la vida cosechas lo que siembras &lpar;Negocios y Emprendimiento&rpar; - Vídeo](https://dojo.madirex.com/2024/09/en-la-vida-cosechas-lo-que-siembras.html)
 <!-- BLOG-POST-LIST:END -->
 <a href="https://www.madirex.com/"><img height="20px" width="0px" src="https://i.imgur.com/tsNd9YC_d.webp"/></a>
 
