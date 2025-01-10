@@ -58,7 +58,7 @@ Desarrollador de aplicaciones y videojuegos ⚙🕹, escritor 📗.
 
 ## ✍ Últimos posts
 <!-- BLOG-POST-LIST:START -->
-- [🛠️ JavaScript Compiler](https://tech.madirex.com/2025/01/javascript-compiler.html)
+- [Cómo utilizar un compilador de JavaScript](https://tech.madirex.com/2025/01/compilador.html)
 - [Mi libro 📗 Cómo escribir un libro en un día sin IA](https://www.madirex.com/2024/12/mi-libro-como-escribir-un-libro-en-un.html)
 - [Cómo escribir un libro en un día sin IA [𝔽𝕚́𝕤𝕚𝕔𝕠 / 𝔻𝕚𝕘𝕚𝕥𝕒𝕝]](https://books.madirex.com/2024/12/como-escribir-un-libro-en-un-dia.html)
 - [Proyecto minijuego so_long](https://www.madirex.com/2024/12/proyecto-minijuego-solong.html)
