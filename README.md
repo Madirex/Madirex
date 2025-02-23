@@ -61,7 +61,7 @@ Desarrollador de aplicaciones y videojuegos ⚙🕹, escritor 📗.
 - [WhiteBook](https://tech.madirex.com/2025/01/whitebook.html)
 - [Filósofos comensales - Proyecto escrito en C](https://www.madirex.com/2025/01/filosofos-comensales-proyecto-escrito.html)
 - [Inside Out - Película](https://dojo.madirex.com/2025/01/inside-out-pelicula.html)
-- [Cómo utilizar un compilador de JavaScript](https://tech.madirex.com/2025/01/compilador.html)
+- [Cómo utilizar un intérprete de JavaScript](https://tech.madirex.com/2025/01/compilador.html)
 - [Mi libro 📗 Cómo escribir un libro en un día sin IA](https://www.madirex.com/2024/12/mi-libro-como-escribir-un-libro-en-un.html)
 <!-- BLOG-POST-LIST:END -->
 <a href="https://www.madirex.com/"><img height="20px" width="0px" src="https://i.imgur.com/tsNd9YC_d.webp"/></a>
