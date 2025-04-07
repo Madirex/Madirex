@@ -58,7 +58,7 @@ Desarrollador de aplicaciones y videojuegos ⚙🕹, escritor 📗.
 
 ## ✍ Últimos posts
 <!-- BLOG-POST-LIST:START -->
-- [WhiteBook](https://tech.madirex.com/2025/01/whitebook.html)
+- [Resumen - El cinturón blanco del programador](https://tech.madirex.com/2025/01/whitebook.html)
 - [Filósofos comensales - Proyecto escrito en C](https://www.madirex.com/2025/01/filosofos-comensales-proyecto-escrito.html)
 - [Inside Out - Película](https://dojo.madirex.com/2025/01/inside-out-pelicula.html)
 - [Cómo utilizar un intérprete de JavaScript](https://tech.madirex.com/2025/01/compilador.html)
