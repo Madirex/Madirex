@@ -44,6 +44,8 @@ Desarrollador de aplicaciones y videojuegos ⚙🕹, escritor 📗.
 
 ## 📕 Mis Libros
 
+<a href="https://books.madirex.com/2025/05/el-cinturon-blanco-del-programador.html"><img align="left" height="200px" src="https://i.imgur.com/D36Cyhf.png"/></a>
+
 <a href="https://books.madirex.com/2024/12/como-escribir-un-libro-en-un-dia.html"><img align="left" height="200px" src="https://i.imgur.com/zGHTI23.png"/></a>
 
 <a href="https://books.madirex.com/2023/11/coctel-de-la-fortuna.html"><img align="left" height="200px" src="https://i.imgur.com/KIgZhNa.png"/></a>
