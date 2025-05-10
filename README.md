@@ -66,8 +66,6 @@ Desarrollador de aplicaciones y videojuegos ⚙🕹, escritor 📗.
   <a href="https://books.madirex.com/2023/11/coctel-de-la-fortuna.html"><img height="200px" src="https://i.imgur.com/KIgZhNa.png"/></a>
 </p>
 
-<br>
-
 <p>
   <a href="https://books.madirex.com/2022/09/el-asesino-sigue-aqui_24.html"><img height="200px" src="https://i.imgur.com/PJM6icK.png"/></a>
   <a href="https://books.madirex.com/2021/06/abre-la-mente-piensa-diferente.html"><img height="200px" src="https://i.imgur.com/f2Ot0w2.png"/></a>
