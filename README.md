@@ -52,11 +52,11 @@ Desarrollador de aplicaciones y videojuegos ⚙🕹, escritor 📗.
 
 <a href="https://books.madirex.com/2022/09/el-asesino-sigue-aqui_24.html"><img align="left" height="200px" src="https://i.imgur.com/PJM6icK.png"/></a>
 
-<a href="https://books.madirex.com/2021/06/abre-la-mente-piensa-diferente.html"><img align="left" style="margin-bottom:20px" height="200px" src="https://i.imgur.com/f2Ot0w2.png"/></a>
+<a href="https://books.madirex.com/2021/06/abre-la-mente-piensa-diferente.html"><img align="left" height="200px" src="https://i.imgur.com/f2Ot0w2.png"/></a>
 
 <a href="https://books.madirex.com/2020/10/la-mansion-de-las-pesadillas.html"><img height="200px" src="https://i.imgur.com/Xwe0UGW.png"/></a>
 
-<a href="https://www.madirex.com/"><img height="20px" width="0px" src="https://i.imgur.com/tsNd9YC_d.webp"/></a>
+<a href="https://www.madirex.com/"><img height="20px" width="0px" src=""/></a>
 
 ## ✍ Últimos posts
 <!-- BLOG-POST-LIST:START -->
