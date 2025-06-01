@@ -58,9 +58,9 @@ Desarrollador de aplicaciones y videojuegos ⚙🕹, escritor 📗.
 <!-- BLOG-POST-LIST:START -->
 - [Minishell escrita en C](https://www.madirex.com/2025/05/minishell-escrita-en-c.html)
 - [Mi libro 📘 El cinturón blanco del programador](https://www.madirex.com/2025/05/mi-libro-el-cinturon-blanco-del.html)
+- [Libro para aprender a programar desde cero 📘 El cinturón blanco del programador](https://tech.madirex.com/2025/05/el-cinturon-blanco-del-programador.html)
 - [El cinturón blanco del programador [𝔽𝕚́𝕤𝕚𝕔𝕠 / 𝔻𝕚𝕘𝕚𝕥𝕒𝕝]](https://books.madirex.com/2025/05/el-cinturon-blanco-del-programador.html)
-- [Filósofos comensales - Proyecto escrito en C](https://www.madirex.com/2025/01/filosofos-comensales-proyecto-escrito.html)
-- [Inside Out - Película](https://dojo.madirex.com/2025/01/inside-out-pelicula.html)
+- [Resumen - El cinturón blanco del programador](https://tech.madirex.com/2025/01/whitebook.html)
 <!-- BLOG-POST-LIST:END -->
 <a href="https://www.madirex.com/"><img height="20px" width="0px" src="https://i.imgur.com/tsNd9YC_d.webp"/></a>
 
