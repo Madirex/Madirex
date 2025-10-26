@@ -56,11 +56,11 @@ Desarrollador de aplicaciones y videojuegos ⚙🕹, escritor 📗.
 
 ## ✍ Últimos posts
 <!-- BLOG-POST-LIST:START -->
+- [Pequeño Game Engine Cub3D escrito en C](https://www.madirex.com/2025/10/pequeno-game-engine-cub3d-escrito-en-c.html)
 - [Juego cognitivo de objetivos - Por Madirex en 2022](https://www.madirex.com/2025/10/juego-cognitivo-de-objetivos-por.html)
 - [Minishell escrita en C](https://www.madirex.com/2025/05/minishell-escrita-en-c.html)
 - [Mi libro 📘 El cinturón blanco del programador](https://www.madirex.com/2025/05/mi-libro-el-cinturon-blanco-del.html)
 - [Libro para aprender a programar desde cero 📘 El cinturón blanco del programador](https://tech.madirex.com/2025/05/el-cinturon-blanco-del-programador.html)
-- [El cinturón blanco del programador [𝔽𝕚́𝕤𝕚𝕔𝕠 / 𝔻𝕚𝕘𝕚𝕥𝕒𝕝]](https://books.madirex.com/2025/05/el-cinturon-blanco-del-programador.html)
 <!-- BLOG-POST-LIST:END -->
 <a href="https://www.madirex.com/"><img height="20px" width="0px" src="https://i.imgur.com/tsNd9YC_d.webp"/></a>
 
