@@ -56,11 +56,11 @@ Desarrollador de aplicaciones y videojuegos ⚙🕹, escritor 📗.
 
 ## ✍ Últimos posts
 <!-- BLOG-POST-LIST:START -->
+- [Migración de página de videojuegos Madirex Games](https://www.madirex.com/2025/12/migracion-de-pagina-de-videojuegos.html)
 - [Nuevo logo y Art Madirex migrado](https://www.madirex.com/2025/11/nuevo-logo-y-art-madirex-migrado.html)
 - [Sección de libros modificada e integrada con el sitio - Cambios en la web](https://www.madirex.com/2025/11/seccion-de-libros-modificada-e.html)
 - [Pequeño Game Engine Cub3D escrito en C](https://www.madirex.com/2025/10/pequeno-game-engine-cub3d-escrito-en-c.html)
 - [Juego cognitivo de objetivos - Por Madirex en 2022](https://www.madirex.com/2025/10/juego-cognitivo-de-objetivos-por.html)
-- [Minishell escrita en C](https://www.madirex.com/2025/05/minishell-escrita-en-c.html)
 <!-- BLOG-POST-LIST:END -->
 <a href="https://www.madirex.com/"><img height="20px" width="0px" src="https://i.imgur.com/tsNd9YC_d.webp"/></a>
 
