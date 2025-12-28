@@ -56,11 +56,11 @@ Desarrollador de aplicaciones y videojuegos ⚙🕹, escritor 📗.
 
 ## ✍ Últimos posts
 <!-- BLOG-POST-LIST:START -->
+- [Wube World | Mapa de Minecraft 1.12](https://www.madirex.com/2025/12/wube-world-mapa-de-minecraft-112.html)
 - [Nueva sección - Utils Madirex](https://www.madirex.com/2025/12/nueva-seccion-utils-madirex.html)
 - [Retro War 1.2 - Rediseño de bosses y mejoras 2025](https://www.madirex.com/2025/12/retro-war-12-rediseno-de-bosses-y.html)
 - [WUFO 0.5.9](https://www.madirex.com/2025/12/wufo-059.html)
 - [Nueva página de vídeos](https://www.madirex.com/2025/12/nueva-pagina-de-videos.html)
-- [Migración de página de videojuegos Madirex Games](https://www.madirex.com/2025/12/migracion-de-pagina-de-videojuegos.html)
 <!-- BLOG-POST-LIST:END -->
 <a href="https://www.madirex.com/"><img height="20px" width="0px" src="https://i.imgur.com/tsNd9YC_d.webp"/></a>
 
