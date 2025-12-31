@@ -63,6 +63,3 @@ Desarrollador de aplicaciones y videojuegos ⚙🕹, escritor 📗.
 - [Nueva página de vídeos](https://www.madirex.com/2025/12/nueva-pagina-de-videos.html)
 <!-- BLOG-POST-LIST:END -->
 <a href="https://www.madirex.com/"><img height="20px" width="0px" src="https://i.imgur.com/tsNd9YC_d.webp"/></a>
-
-# 📈 Actividad
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=madirex&show_icons=true&theme=github_dark&show_icons=true&rank_icon=github)
