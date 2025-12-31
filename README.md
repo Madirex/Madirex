@@ -1,6 +1,5 @@
 <a href="https://www.madirex.com/"><img align="right" height="150px" src="https://i.imgur.com/YczL904.png"></a>
 
-## ⚔ Madirex
 Desarrollador de aplicaciones y videojuegos ⚙🕹, escritor 📗.
 <div>
   <a href="mailto:contact@madirex.com">✉ contact@madirex.com</a>
