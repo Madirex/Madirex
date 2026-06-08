@@ -27,7 +27,7 @@ Desarrollador de aplicaciones y videojuegos ⚙🕹, escritor 📗.
 ## 📱 Mis Apps
 <a href="https://www.madirex.com/search/label/intervalelite?&max-results=12"><img align="left" height="60px" src="https://i.imgur.com/9bj1H2g.png"/></a>
 
-<a href="https://tech.madirex.com/"><img height="60px" src="https://play-lh.googleusercontent.com/Kksihqj83n-2p_Zv7bjQpSP0l-urlffrm0xHvvpZUU0KCI4u2X40_KbRrsQuLanYDlM=w240-h480"/></a>
+<a href="https://tech.madirex.com/"><img align="left" height="60px" src="https://play-lh.googleusercontent.com/Kksihqj83n-2p_Zv7bjQpSP0l-urlffrm0xHvvpZUU0KCI4u2X40_KbRrsQuLanYDlM=w240-h480"/></a>
 
 <a href="https://dojo.madirex.com/"><img height="60px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLnAsDYZx8LLbs4ZoOHeKNGO7gzCe2iND_r19oeq_FZHFwnLZlwgr5Vnet8qFjqvVgfstcmb47JBQflwAHpGdVO_8losbpXpVf2rxD40rTkgkUj4mduYralpXrghYew95eZfQmJRJQgV8Ksnw8hShgaUEZyYYd-zkwvIV0A1WQZ88UrGOiu0bjm8jkKLYv/s770/Kaidojo.png"/></a>
 
