@@ -21,16 +21,15 @@ Desarrollador de aplicaciones y videojuegos ⚙🕹, escritor 📗.
   <div>
     - <a href="https://art.madirex.com/">Página de mi galería 📷</a>
   </div>
-  <div>
-    - <a href="https://tech.madirex.com/">Página de informática y tecnología ⚙</a>
-  </div>
 </div>
 <a href="https://www.madirex.com/"><img height="20px" width="0px" src="https://i.imgur.com/tsNd9YC_d.webp"/></a>
 
 ## 📱 Mis Apps
 <a href="https://www.madirex.com/search/label/intervalelite?&max-results=12"><img align="left" height="60px" src="https://i.imgur.com/9bj1H2g.png"/></a>
 
-<a href="https://tech.madirex.com/p/app-madirex.html"><img height="60px" src="https://play-lh.googleusercontent.com/Kksihqj83n-2p_Zv7bjQpSP0l-urlffrm0xHvvpZUU0KCI4u2X40_KbRrsQuLanYDlM=w240-h480"/></a>
+<a href="https://tech.madirex.com/"><img height="60px" src="https://play-lh.googleusercontent.com/Kksihqj83n-2p_Zv7bjQpSP0l-urlffrm0xHvvpZUU0KCI4u2X40_KbRrsQuLanYDlM=w240-h480"/></a>
+
+<a href="https://dojo.madirex.com/"><img height="60px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLnAsDYZx8LLbs4ZoOHeKNGO7gzCe2iND_r19oeq_FZHFwnLZlwgr5Vnet8qFjqvVgfstcmb47JBQflwAHpGdVO_8losbpXpVf2rxD40rTkgkUj4mduYralpXrghYew95eZfQmJRJQgV8Ksnw8hShgaUEZyYYd-zkwvIV0A1WQZ88UrGOiu0bjm8jkKLYv/s770/Kaidojo.png"/></a>
 
 <a href="https://www.madirex.com/"><img height="20px" width="0px" src="https://i.imgur.com/tsNd9YC_d.webp"/></a>
 
