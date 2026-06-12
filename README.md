@@ -54,10 +54,10 @@ Desarrollador de aplicaciones y videojuegos ⚙🕹, escritor 📗.
 
 ## ✍ Últimos posts
 <!-- BLOG-POST-LIST:START -->
+- [Utiliza comandos de UNIX en Windows de forma nativa](https://www.madirex.com/2026/06/utiliza-comandos-de-unix-en-windows-de.html)
 - [KaiDojo - Aplicación de desarrollo personal](https://www.madirex.com/2026/06/kaidojo-aplicacion-de-desarrollo.html)
 - [No vuelvas a enfermar más - Wim Hof](https://www.madirex.com/2026/05/no-vuelvas-enfermar-mas-wim-hof.html)
 - [No vuelvas a enfermar más - Wim Hof](https://dojo.madirex.com/2026/05/no-vuelvas-enfermar-mas-wim-hof.html)
 - [Aplicaciones MadiTech e Interval Elite ahora en Microsoft Store](https://www.madirex.com/2026/05/aplicaciones-maditech-e-interval-elite.html)
-- [MadiTech 2.0](https://www.madirex.com/2026/05/maditech-20.html)
 <!-- BLOG-POST-LIST:END -->
 <a href="https://www.madirex.com/"><img height="20px" width="0px" src="https://i.imgur.com/tsNd9YC_d.webp"/></a>
