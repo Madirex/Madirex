@@ -54,10 +54,10 @@ Desarrollador de aplicaciones y videojuegos ⚙🕹, escritor 📗.
 
 ## ✍ Últimos posts
 <!-- BLOG-POST-LIST:START -->
+- [Hitch - Película recomendada](https://www.madirex.com/2026/09/hitch-pelicula-recomendada.html)
 - [Go Karts - Película recomendada](https://www.madirex.com/2026/08/go-karts-pelicula-recomendada.html)
 - [Mejora de diseño y estructura de esta página - Madirex](https://www.madirex.com/2026/06/mejora-de-diseno-y-estructura-de-esta.html)
 - [Utiliza comandos de UNIX en Windows de forma nativa](https://www.madirex.com/2026/06/utiliza-comandos-de-unix-en-windows-de.html)
 - [KaiDojo - Aplicación de desarrollo personal](https://www.madirex.com/2026/06/kaidojo-aplicacion-de-desarrollo.html)
-- [No vuelvas a enfermar más - Wim Hof](https://www.madirex.com/2026/05/no-vuelvas-enfermar-mas-wim-hof.html)
 <!-- BLOG-POST-LIST:END -->
 <a href="https://www.madirex.com/"><img height="20px" width="0px" src="https://i.imgur.com/tsNd9YC_d.webp"/></a>
