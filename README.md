@@ -41,6 +41,10 @@ Desarrollador de aplicaciones y videojuegos ⚙🕹, escritor 📗.
 
 ## 📕 Mis Libros
 <p>
+  <a href="https://www.madirex.com/2026/11/la-senda-de-tus-acciones.html"><img height="200px" hspace="10" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOOMtVNwKC37DCitnF5nG5gjUbDVJMlk7MsMFevx-19uUcpfYuXGvpxPRSd7ni8Y5M9C_EDWtmlIIlPGg6QjnSV29pacIlzOsbnn9ZlNAyQs9Xy3L4PRFV3QTPhBhO10g1MZdBgor3mPNhc-MNKB31O6xqJX6X3G0LuBxudqAVNcIkJ-2TmTdOgF9qJ62N/s1600/La%20senda%20de%20tus%20acciones.png"/></a>
+</p>
+
+<p>
   <a href="https://books.madirex.com/2025/05/el-cinturon-blanco-del-programador.html"><img height="200px" hspace="10" src="https://i.imgur.com/D36Cyhf.png"/></a>
   <a href="https://books.madirex.com/2024/12/como-escribir-un-libro-en-un-dia.html"><img height="200px" hspace="10" src="https://i.imgur.com/zGHTI23.png"/></a>
   <a href="https://books.madirex.com/2023/11/coctel-de-la-fortuna.html"><img height="200px" hspace="10" src="https://i.imgur.com/KIgZhNa.png"/></a>
