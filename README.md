@@ -39,7 +39,7 @@ Desarrollador de aplicaciones y videojuegos ⚙🕹, escritor 📗.
 
 <a href="https://www.madirex.com/"><img height="20px" width="0px" src="https://i.imgur.com/tsNd9YC_d.webp"/></a>
 
-## 📕 Mis Libros
+## 📕 Libros que he escrito
 <p>
   <a href="https://www.madirex.com/2026/11/la-senda-de-tus-acciones.html"><img height="200px" hspace="10" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOOMtVNwKC37DCitnF5nG5gjUbDVJMlk7MsMFevx-19uUcpfYuXGvpxPRSd7ni8Y5M9C_EDWtmlIIlPGg6QjnSV29pacIlzOsbnn9ZlNAyQs9Xy3L4PRFV3QTPhBhO10g1MZdBgor3mPNhc-MNKB31O6xqJX6X3G0LuBxudqAVNcIkJ-2TmTdOgF9qJ62N/s1600/La%20senda%20de%20tus%20acciones.png"/></a>
 </p>
