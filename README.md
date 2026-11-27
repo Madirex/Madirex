@@ -58,10 +58,10 @@ Desarrollador de aplicaciones y videojuegos ⚙🕹, escritor 📗.
 
 ## ✍ Últimos posts
 <!-- BLOG-POST-LIST:START -->
+- [Original OSTs de 2025](https://www.madirex.com/2026/11/original-osts-de-2025.html)
 - [La senda de tus acciones](https://www.madirex.com/2026/11/la-senda-de-tus-acciones.html)
 - [Interval Elite 1.1 - Mejoras de calidad](https://www.madirex.com/2026/11/interval-elite-11-mejoras-de-calidad.html)
 - [Mejoras en listas de QR | Actualización KaiDojo y MadiTech](https://www.madirex.com/2026/11/mejoras-en-listas-de-qr-actualizacion.html)
 - [La IA puede equivocarse más de lo que crees](https://www.madirex.com/2026/09/la-ia-puede-equivocarse-mas-de-lo-que.html)
-- [Nuestros amantes - Película recomendada](https://www.madirex.com/2026/09/nuestros-amantes-pelicula-recomendada.html)
 <!-- BLOG-POST-LIST:END -->
 <a href="https://www.madirex.com/"><img height="20px" width="0px" src="https://i.imgur.com/tsNd9YC_d.webp"/></a>
